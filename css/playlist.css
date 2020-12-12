@@ -1,0 +1,121 @@
+body{
+
+    background-image: url(https://eudaimoniahomes.com/wp-content/uploads/2019/02/what-is-pink-cloud.jpg);
+   background-size: 5000px;
+}
+#container{
+    height: 1500px;
+}
+#content{
+    width: 1000px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: 280px 280px 280px  ;
+    grid-template-rows: 280px 280px ;
+    grid-row-gap :150px  ;
+    grid-column-gap: 100px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+    
+}
+.playlist_artist{
+    padding: auto;
+    box-shadow: 0 0 20px black;
+    margin: auto;
+    background-color: white;
+    object-fit: cover;
+}
+.playlist_artist img{
+    width: 300px;
+    height: 300px;  
+   
+    
+}
+.playlist_artist:hover{
+    box-shadow: none;
+    transition: scale(0.98) translateY(5px);
+    background-color:white;
+    
+}
+hr{
+    margin-top: 150px;
+}
+hr{
+    margin-bottom: 150px;
+}
+h3{
+    text-align: center;
+    background-color: white;
+    text-decoration: solid;
+}
+
+p{
+    text-align: center;
+    font-size: 100px;
+   
+}
+p{
+    position: relative;
+    top: 80px;
+}
+er{
+    font-family: 'Bitter', serif;
+
+}
+
+.f-no-foot{
+    font-family: 'Lato', sans-serif;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 5vh;
+    background-color: #fff;
+    -webkit-box-shadow: 0 3px 0 0 rgba(0,0,0,.06);
+    box-shadow: 0 3px 0 0 rgba(0,0,0,.06);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2000;
+    }
+
+
+
+.logo {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 30px;
+
+    }
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 35%;
+    
+    }
+
+
+.nav-links a{
+    color:black;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+
+    }
+
+    
