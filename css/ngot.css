@@ -60,12 +60,7 @@ html {
 .container {
     display: flex;
     }
-.dis-grid{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    height: auto;
-    width: 200px;
-}
+
     
 .bg {
     /* Full height */
@@ -314,3 +309,4 @@ html {
     }
 
 }
+
