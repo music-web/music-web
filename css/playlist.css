@@ -1,7 +1,7 @@
-body{
+/* body{
 
     background-image: url(https://eudaimoniahomes.com/wp-content/uploads/2019/02/what-is-pink-cloud.jpg);
-   background-size: 5000px;
+    background-size: 5000px;
 }
 #container{
     height: 1500px;
@@ -118,4 +118,127 @@ html {
 
     }
 
+     */
+
+
+.f-normal{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+.f-header{
+    font-family: 'Bitter', serif;
+
+}
+
+.f-no-foot{
+    font-family: 'Lato', sans-serif;
+}
+
+.f-no-foot2{
+    font-family: 'Roboto', sans-serif;
+}
+
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background-color: #2c292f;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    }
+
+
+
+.logo {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 30px;
+
+    }
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 35%;
     
+    }
+
+
+.nav-links a{
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+
+    }
+
+.container {
+    display: flex;
+    }
+    
+.bg {
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.info-music{
+    margin-top: 15vh;
+    margin-left: 30px;
+    text-decoration: done;
+    border-bottom: 2px solid salmon;
+    width: 140px;
+}
+
+.picture-music{
+    height: auto;
+    width: 35px;
+    margin-left: 10px;
+}
+
+.singer{
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+
+
+
+}
+
+.detail-singer{
+    margin: 10px;
+}
+
+.picture-singer{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.singer a{
+    text-decoration: none;
+    color: black;
+}
+
+.singer a p{
+    text-transform: bold;
+    font-size: 150%;
+}

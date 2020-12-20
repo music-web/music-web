@@ -24,7 +24,7 @@ html {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 5vh;
+    min-height: 10vh;
     background-color: #2c292f;
     position: fixed;
     width: 100%;
@@ -84,6 +84,7 @@ html {
 
 .bg-frist {
     background-image: url("../image/Main\ screen.svg");
+
     }
 .bg-2{
     background-image: url("../image/Home\ screen\ 2.svg");
