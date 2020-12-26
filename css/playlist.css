@@ -241,4 +241,5 @@ html {
 .singer a p{
     text-transform: bold;
     font-size: 150%;
+    margin: 10px;
 }

@@ -14,7 +14,7 @@ audio: [
 {
 name: 'im lặng thôi dsk ',
 artist: '',
-url: '../../dsk.mp3.mp3',
+url: '../js/audio/ImLangThoi.mp3',
 cover: 'cover.jpg'
 },
 {
