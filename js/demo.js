@@ -20,43 +20,43 @@ cover: 'cover.jpg'
 {
 name: 'Điếu thuốc cuối',
 artist: '',
-url: '../../dieuthuoccuoidsk.mp3',
+url: '../js/audio/dieuthuoccuoidsk.mp3',
 cover: 'cover.jpg'
 },
 {
 name: 'Lớn Rồi ',
 artist: '',
-url: '../../Lon-Roi-DSK.mp3',
+url: '../js/audio/Lon-Roi-DSK.mp3',
 cover: 'cover.jpg'
 },
 {
 name: 'Ngày tàn ',
 artist: '',
-url: '../../Ngay-Tan-DSK.mp3',
+url: '../js/audio/Ngay-Tan-DSK.mp3',
 cover: 'cover.jpg'
 },
 {
 name: 'Có sao đâu ',
 artist: '',
-url: '../../Co-Sao-Dau-DSK.mp3',
+url: '../js/audio/Co-Sao-Dau-DSK.mp3',
 cover: 'cover.jpg'
 },
 {
 name: 'Thế hệ tao ',
 artist: '',
-url: '../../The-He-Tao-DSK-Ft-Krazinoyze.mp3',
+url: '../js/audio/TheHeTao-DsKKraziNoyze-4762260.mp3',
 cover: 'cover.jpg'
 },
 {
 name: 'Chưa bao giờ ',
 artist: '',
-url: '../../Chua-Bao-Gio-DSK (1).mp3',
+url: '../js/audio/Chua-Bao-Gio-DSK.mp3',
 cover: 'cover.jpg'
 },
 {
 name: 'Ai mà biết được ',
 artist: '',
-url: '../../Ai-ma-biet-duoc-DSK.mp3',
+url: '../js/audio/Ai_Ma_Biet_Duoc_-_Dsk.mp3',
 cover: 'cover.jpg'
 },
 ] 
