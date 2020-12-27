@@ -612,13 +612,21 @@ nav {
     font-weight: bold;
 }
 
-@media screen and (max-width: 413px){
+@media screen and (max-width: 416px){
     .detail{
         /* overflow: scroll;
         width: 60px;
         height: 100px; */
         display: none;
+        
     }   
+    .bth{
+        margin-top: 300px;
+
+    }   
+    .media{
+        width: 300px;
+    }
 
 }
 @media screen and (max-width: 1025px){
@@ -627,9 +635,14 @@ nav {
         width: 460px;
         height: 200px;
         /* display: none; */
-    }   
+    }
+
     .media{
         width: 700px;
     }
 
+}
+
+.list{
+    margin-left: 50px !important;
 }

@@ -40,7 +40,7 @@ cover: 'https://i.ytimg.com/vi/BHCU7CR_Unk/maxresdefault.jpg'
     artist: ' Đen Vâu ',
     url: '../js/audio/Mo.mp3',
     cover: 'https://i1.sndcdn.com/artworks-000178815524-o74yrb-t500x500.jpg'
-},
+    },
 ] 
 
 });
